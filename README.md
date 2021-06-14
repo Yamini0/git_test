@@ -15,3 +15,4 @@ Such as:
 1. git branch
 2. git checkout
 3. git merge
+4. git cheerypick
